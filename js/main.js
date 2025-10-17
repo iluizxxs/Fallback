@@ -1,4 +1,3 @@
-//registrando a service worker
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', async () => {
     try {
